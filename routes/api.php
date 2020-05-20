@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
-
+// Referencias para la creacion del ejemplo
 // https://blog.nexlab.dev/tech/2019/05/30/utiliza-jwt-con-laravel-para-apis.html
 // https://www.nigmacode.com/laravel/JWT-en-Laravel
 
